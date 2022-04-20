@@ -1,11 +1,11 @@
 /* @flow */
 
-function App() {
+const App = () => {
   return (
     <div>
       <p>Edit and save to reload Last try?</p>
     </div>
   );
-}
+};
 
 export default App;
